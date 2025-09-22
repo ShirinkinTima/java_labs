@@ -7,9 +7,12 @@ public class FunctionGoogleCS {
     public int sumLastNums(int x) {
         if (x < 10 && x > -10) {
             System.out.println("Error");
+            return -1;
         }
-        int d1 = x % 10;
-        int d2 = x % 100;
+        int newX = x;
+        int d1 = newX % 10;
+        newX = newX / 10;
+        int d2 = newX % 10;
         return d1 + d2;
     }
 
@@ -47,15 +50,13 @@ public class FunctionGoogleCS {
     }
 
     public String makeDecision(int x, int y) {
-        String s = "";
         if (x < y) {
-            s = "x<y";
+            return  x + " < " + y ;
         } else if (x == y) {
-            s = "x==y";
+            return x + " == " + y;
         } else {
-            s = "x>y";
+            return x + " > " + y;
         }
-        return s;
     }
 
     public boolean sum3(int x, int y, int z) {
@@ -101,12 +102,14 @@ public class FunctionGoogleCS {
     }
 
     public String reverseListNums(int x) {
-        StringBuilder stringBuilder = new StringBuilder();
+        StringBuilder result = new StringBuilder();
         for (int i = x; i >= 0; i--) {
-            stringBuilder.append((char) i + ' ');
+            result.append(i);
+            if (i > 0) {
+                result.append(" ");
+            }
         }
-        String result = stringBuilder.toString();
-        return result;
+        return result.toString();
     }
 
     public int pow(int x, int y) {
