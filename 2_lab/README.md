@@ -89,7 +89,10 @@
 
 <img width="731" height="508" alt="{DF3E86D7-4D45-4A66-BBA0-3662FA412A07}" src="https://github.com/user-attachments/assets/c9c2c4bd-e3af-4639-b715-e50f311c02c0" />
 <img width="487" height="493" alt="{F65B53A2-BDC5-4530-A9DE-11ED5F58561C}" src="https://github.com/user-attachments/assets/6d8f2ebf-343e-45af-a986-7665adbbda3e" />
-<img width="580" height="799" alt="{008210D6-B360-40C1-ACBC-0039E4ED6C69}" src="https://github.com/user-attachments/assets/2a3a2201-bad7-4dd3-9b00-01f3c3b5cd22" />  
+<img width="580" height="799" alt="{008210D6-B360-40C1-ACBC-0039E4ED6C69}" src="https://github.com/user-attachments/assets/2a3a2201-bad7-4dd3-9b00-01f3c3b5cd22" /> 
+<img width="352" height="101" alt="{B5D45900-5735-498A-88FF-047A5F64DBCF}" src="https://github.com/user-attachments/assets/1ccc24c5-4832-4d8a-9bbb-013d349b896d" />  
+<img width="371" height="174" alt="{AAE8ED0E-98CD-4CB7-81E2-049E210D5D64}" src="https://github.com/user-attachments/assets/5309595e-8e4a-4246-bbde-b5fb639a70db" />
+
 
 
 ## Класс Fraction
