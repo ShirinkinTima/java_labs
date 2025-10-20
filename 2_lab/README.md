@@ -19,6 +19,7 @@
 - **Другие методы**
   - `toString()` - строковое представление в формате "Имя, рост: X"
 
+<img width="185" height="233" alt="{66AC4879-D7E7-47D2-A0E9-022ACF5A5AB4}" src="https://github.com/user-attachments/assets/5887523f-9108-4ddc-bb0d-8ac0c51164ce" />
 
 ## Класс HumanWithName
 
