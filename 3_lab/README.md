@@ -36,6 +36,14 @@
 - **`equals(Object obj)`** - сравнение дробей с учетом сокращения
 - **`hashCode()`** - вычисление хеш-кода дроби
 
+<img width="952" height="723" alt="{5E0E580B-F512-444D-A895-5584BB5430E1}" src="https://github.com/user-attachments/assets/87e8dd8d-aed6-4f4b-8367-a8699417c2e2" />  
+<img width="367" height="490" alt="{932EF120-9052-4437-B531-0990185C5D8D}" src="https://github.com/user-attachments/assets/19bd5d70-adbd-42f2-b5f5-7f56ea4a49f7" />  
+  
+<img width="754" height="336" alt="{8F047B07-2369-4D86-9C05-1044A306C4EC}" src="https://github.com/user-attachments/assets/d6c143ca-303b-4dfc-bfb9-310311d03d8d" />  
+<img width="234" height="118" alt="{E2E9EDCC-49AF-40F0-84C7-F83C4D0B69EC}" src="https://github.com/user-attachments/assets/4116e046-ba1c-4149-8353-d57b64d9ff1d" />
+
+
+
 ## Класс City
 
 ### Конструкторы
