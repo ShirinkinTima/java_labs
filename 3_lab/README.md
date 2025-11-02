@@ -39,7 +39,7 @@
 <img width="952" height="723" alt="{5E0E580B-F512-444D-A895-5584BB5430E1}" src="https://github.com/user-attachments/assets/87e8dd8d-aed6-4f4b-8367-a8699417c2e2" />  
 <img width="367" height="490" alt="{932EF120-9052-4437-B531-0990185C5D8D}" src="https://github.com/user-attachments/assets/19bd5d70-adbd-42f2-b5f5-7f56ea4a49f7" />  
   
-<img width="754" height="336" alt="{8F047B07-2369-4D86-9C05-1044A306C4EC}" src="https://github.com/user-attachments/assets/d6c143ca-303b-4dfc-bfb9-310311d03d8d" />  
+<img width="754" height="336" alt="{8F047B07-2369-4D86-9C05-1044A306C4EC}" src="https://github.com/user-attachments/assets/d6c143ca-303b-4dfc-bfb9-310311d03d8d" />    
 <img width="234" height="118" alt="{E2E9EDCC-49AF-40F0-84C7-F83C4D0B69EC}" src="https://github.com/user-attachments/assets/4116e046-ba1c-4149-8353-d57b64d9ff1d" />
 
 
@@ -62,6 +62,13 @@
 - **`toString()`** - подробное строковое представление города с маршрутами
 - **`equals(Object obj)`** - сравнение городов (по имени и маршрутам)
 - **`hashCode()`** - хеш-код на основе имени города
+
+
+<img width="786" height="697" alt="{9D4A6A2D-1D03-464D-BE18-756FE25CBED6}" src="https://github.com/user-attachments/assets/88444604-e618-4768-b713-2a1beafbec3c" />  
+<img width="1095" height="721" alt="{CE78A6A2-0E00-46BB-A7A7-CD27C1338198}" src="https://github.com/user-attachments/assets/66682a41-40c0-4c36-b50b-867870abff69" />  
+<img width="925" height="538" alt="{68C197AE-6551-4354-A73D-F189D5A891F4}" src="https://github.com/user-attachments/assets/53049948-5cef-4a84-9fe0-ea2b317fe0b2" />  
+<img width="551" height="741" alt="{280E031D-0077-4DDD-98BF-CFAF450F156C}" src="https://github.com/user-attachments/assets/415ded59-67d6-475b-a629-0a9737490d07" />  
+<img width="479" height="135" alt="{C1D9A518-2C0E-48FF-BF2A-E88CF094E67F}" src="https://github.com/user-attachments/assets/f1a9fe9f-7a54-4c43-bb6d-5f63dc800d3d" />  
 
 ## Класс Route
 
