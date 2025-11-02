@@ -88,8 +88,11 @@
 - **`buildPath(Map<City, City> previous)`** - восстанавливает путь из карты предыдущих городов
 - **`toString()`** - строковое представление маршрута
 
-## Классы людей (Human, HumanWithName, Name)
+<img width="822" height="575" alt="{983D55B8-DF3B-43F5-94B4-506F1B1F7E4A}" src="https://github.com/user-attachments/assets/c1e0abe4-079f-4038-8b89-29f32bdebd08" />  
+<img width="516" height="253" alt="{F4A9EBDB-C906-4CFB-9090-9E5133027C95}" src="https://github.com/user-attachments/assets/7f8f4012-942c-45a0-9ce4-c803376d5b9e" />  
 
+## Классы людей (Human, HumanWithName, Name)
+> Тесты приведены в лабораторной №1
 ### Human
 - **`Human(String name, int height)`** - создает человека с именем и ростом
 - **`setHeight(int height)`** - устанавливает рост (100-220 см)
@@ -108,11 +111,24 @@
 ### SimpleSum
 - **`sum(double... numbers)`** - суммирует произвольное количество чисел
 
+<img width="671" height="382" alt="{B2E794EE-2732-494F-8DE8-B019A521DD93}" src="https://github.com/user-attachments/assets/9dbd34cf-9489-411f-8a7f-803af79d4aa3" />  
+<img width="554" height="74" alt="{CE66ED04-2990-47C9-B5A7-CF12C662A12E}" src="https://github.com/user-attachments/assets/a8498d44-a7a1-4ad0-86b8-a3ba2b5e7c71" />
+
+
 ### Pow
 - **`powCustom(String xStr, String yStr)`** - возводит число в степень (принимает строки)
+
+<img width="709" height="106" alt="{D2E00E38-4A8A-4010-B2A7-A7F69F469AE5}" src="https://github.com/user-attachments/assets/d2df7948-b637-4929-96f1-6cc165f505e8" />  
+<img width="248" height="317" alt="{AD191906-2A3D-480F-A9F1-E912F56A9072}" src="https://github.com/user-attachments/assets/00e33d5c-e0a1-4860-a778-7b6822f7e7db" />
+
 
 ### Dot
 - **`Dot(int x, int y)`** - создает точку с координатами
 - **`clone()`** - создает копию точки
 - **`setCoordinate(int x, int y)`** - устанавливает координаты
 - **`toString()`** - формат: "{x;y}"
+
+<img width="922" height="636" alt="{857BF9F2-02B5-44F6-B683-25A742FCAC16}" src="https://github.com/user-attachments/assets/8df7d7df-9e9e-43ab-9b2f-137bb19fcdaa" />  
+<img width="348" height="254" alt="{E62C0B76-8130-43B7-B7D5-1A2AFAB216F3}" src="https://github.com/user-attachments/assets/62c09af4-b8f6-4f9e-8c40-0bfba88bb44e" />
+
+
